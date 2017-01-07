@@ -57,10 +57,10 @@ Give an example
 Add additional notes about how to deploy this on a live system
 
 ## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - The IDE used
+* [Spring MVC](https://spring.io/guides/gs/serving-web-content/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
 
 ## Contributing
 
@@ -72,16 +72,12 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Yu Su** - *Initial work* - [PurpleBooth](https://github.com/Bu-Chi-Zhai)
+* **Yu Su** - *Initial work* - [Bu-Chi-Zhai](https://github.com/Bu-Chi-Zhai)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+
